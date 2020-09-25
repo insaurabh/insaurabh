@@ -28,7 +28,6 @@ export default () => ({
   },
 });
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaurabh&layout=compact" alt="insaurabh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insaurabh&show_icons=true" alt="insaurabh" /></p>
 ---
