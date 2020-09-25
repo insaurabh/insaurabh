@@ -1,4 +1,6 @@
-# Saurabh Ranjan 👨‍💻
+<h1 align="center">Hi 👋, I'm Saurabh Ranjan 👨‍💻</h1>
+<h3 align="center">A passionate backend developer from India.</h3>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inrsaurabh/)](https://www.linkedin.com/in/inrsaurabh/)
 [![stackoverflow](https://img.shields.io/badge/-StackOverFlow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://www.linkedin.com/in/inrsaurabh/)](https://stackoverflow.com/story/inrsaurabh/)
 
@@ -26,5 +28,7 @@ export default () => ({
   },
 });
 ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaurabh&layout=compact" alt="insaurabh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insaurabh&show_icons=true" alt="insaurabh" /></p>
 ---
