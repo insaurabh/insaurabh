@@ -11,20 +11,23 @@
 export default () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
-    'webdev', 'tech', 'stories', 'books',
+    'webdev', 'tech', 'stories', 'books'
   ],
   technologies: {
     frontEnd: {
-      js: ['es6', 'react', 'Svelte', 'next.js', ],
+      js: ['es6', 'react', 'Svelte', 'next.js' ],
       css: ['bootstrap','tailwind'],
     },
     backEnd: {
-      js: ['node', 'express', ],
-      php: ['laravel', 'yii', ]
+      js: ['node', 'express'],
+      php: ['laravel', 'yii']
     },
-    cms: ['wordPress', 'craftCms', ],
-    languages: ['php', 'javascript', ],
-    databases: ['MySQL', 'mongo', ],
+    headless: {
+     js: ['gatsby']
+    }
+    cms: ['wordPress', 'craftCms' ],
+    languages: ['php', 'javascript' ],
+    databases: ['MySQL', 'mongo' ]
   },
 });
 ```
