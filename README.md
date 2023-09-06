@@ -23,16 +23,15 @@ export default () => ({
       php: ['laravel', 'yii']
     },
     headless: {
-     js: ['gatsby']
+     js: ['gatsby', 'nextJs']
     }
     cms: ['wordPress', 'craftCms' ],
     languages: ['php', 'javascript' ],
-    databases: ['MySQL', 'mongo' ]
+    databases: ['MySQL', 'mongoDB' ]
   },
 });
 ```
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insaurabh&show_icons=true" width="400" alt="insaurabh" /></p>
 
-<a href="https://app.daily.dev/inrsaurabh007"><img src="https://api.daily.dev/devcards/508dd322baf94bd49aab7005f1f0b8ee.png?r=565" width="400" alt="Saurabh Ranjan's Dev Card"/></a>
 ---
